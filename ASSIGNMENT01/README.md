@@ -12,3 +12,6 @@ Having lived in Jakarta my entire life, I've experienced first-hand how ineffici
 
 Thus, I want to use this UX project to create a website or mobile app that will encourage fellow Indonesians to learn more about and use existing public transportation systems in order to reduce both congestion and pollution from private vehicles such as cars and motorcycles.
 
+### About This Assignment
+
+In this assignment, I will be conducting a heursitic evaluation through examining the _10 Usability Heuristics of User Interface Designs_ and _Severity Ratings for Usability Problems_ of two websites that are similar to the project idea I chose

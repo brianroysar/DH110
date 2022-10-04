@@ -14,4 +14,7 @@ Thus, I want to use this UX project to create a website or mobile app that will 
 
 ### About This Assignment
 
-In this assignment, I will be conducting a heursitic evaluation through examining the _10 Usability Heuristics of User Interface Designs_ and _Severity Ratings for Usability Problems_ of two websites that are similar to the project idea I chose
+In this assignment, I will be conducting a heursitic evaluation through examining the _10 Usability Heuristics of User Interface Designs_ and _Severity Ratings for Usability Problems_ of two websites that are similar to the project idea I chose. 
+
+### Webiste #1: MRT Jakarta
+

@@ -10,4 +10,5 @@ This project will focus on the 11th Sustainable Development Goal (SDG), Sustaina
 
 Having lived in Jakarta my entire life, I've experienced first-hand how inefficient transportation and commuting can be. A lack of structured roads and public transportation only being in its early stages of development, the lack of accessible and efficient transportation has frustrated many Indonesians as commute times and congestion are exponentially high. In addition, with Indonesia being in the top 20 most polluted countries in the world, there should be a larger emphasis on improving the sustainability of many of our transportation methods to maintain a good quality of life in the long term.  
 
-Thus, I want to use this UX project to create a website or mobile app that will encourage fellow Indonesians to learn more about and use existing public transportation
+Thus, I want to use this UX project to create a website or mobile app that will encourage fellow Indonesians to learn more about and use existing public transportation systems in order to reduce both congestion and pollution from private vehicles such as cars and motorcycles.
+

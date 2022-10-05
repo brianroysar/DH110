@@ -131,11 +131,11 @@ Reducing cognitive effort from users by making elements and actions visible and 
 <p>
 Provide shortcuts and ease of navigation for users of all different skill/experience levels
    </td>
-   <td>
+   <td><strong>Negative: </strong>Does not allow the user to search up routes only using a keyboard efficiently (dependent on mouse)
    </td>
-   <td>
+   <td>Allow compatibility with <strong>tabs, arrow keys and shift </strong>for a user to search what they need with ease and less dependent on the mouse
    </td>
-   <td>
+   <td>1
    </td>
   </tr>
   <tr>
@@ -143,11 +143,13 @@ Provide shortcuts and ease of navigation for users of all different skill/experi
 <p>
 Website contains only necessary information and minimize information bloating
    </td>
-   <td>
+   <td><strong>Positive: </strong>The home page gets straight to the point and has the route finding input box front and center
+<p>
+<strong>Negative: </strong>The informational aspect of the website has paragraphs on paragraphs of text which makes information unappealing and indigestible
    </td>
-   <td>
+   <td>Utilize illustrations and icons to convey the same message, without needing too much text
    </td>
-   <td>
+   <td>2
    </td>
   </tr>
   <tr>
@@ -155,11 +157,11 @@ Website contains only necessary information and minimize information bloating
 <p>
 Ability to prompt users with correct error messages and possible solutions to fix or navigate the error
    </td>
-   <td>
+   <td><strong>Positive: </strong>Whenever a user inputs an invalid route, the system prompts the user of the error and how to fix it
    </td>
-   <td>
+   <td>N/A
    </td>
-   <td>
+   <td>1
    </td>
   </tr>
   <tr>
@@ -167,11 +169,12 @@ Ability to prompt users with correct error messages and possible solutions to fi
 <p>
 Provide instructions or a manual for a user on how to navigate and complete tasks on the website
    </td>
-   <td>
+   <td><strong>Negative: </strong>The website does not have instructions on how to use the route finding functionality
    </td>
-   <td>
+   <td>To educate users, provide a document or video that illustrates, step-by-step, on how to use it
    </td>
-   <td>
+   <td>2
    </td>
   </tr>
 </table>
+

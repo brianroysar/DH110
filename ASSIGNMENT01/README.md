@@ -183,7 +183,7 @@ Provide instructions or a manual for a user on how to navigate and complete task
 [Website Link](https://transjakarta.co.id/)
 
 #### Information About The Website
-
+transjakarta.co.id is the official website for the Jakarta bus rapid transit system. The website serves the purpose of highlighting the mission/vision of the system, news about the system, and the map of the routes available for users.
 
 #### Overall Evaluation of The Website
-
+The website is very messy and disorganized; it is hard and unclear on how to navigate to pages that a user wants to go to. The header and body font sizes are the same, images are not uniformly sized and distorted, and the overall design of the website is also very outdated. This repels any potential individuals who are interested in using public transportation from using the website to learn more about it. 

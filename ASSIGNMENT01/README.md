@@ -19,3 +19,6 @@ In this assignment, I will be conducting a heursitic evaluation through examinin
 ### Website #1: MRT Jakarta
 ![MRT Jakarta's Home Page](./images/mrt_jakarta_home.png)
 [Website Link](https://jakartamrt.co.id/en)
+
+#### Information about the website
+jakartamrt.co.id is the official website for the Jakarta MRT system that was recently opened in the past decade. The website serves the purpose of highlighting the mission/vision of the project, the recent developments of the project, and most importantly, provides travelers with information about routes given a source, destination and time. 

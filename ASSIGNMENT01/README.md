@@ -187,3 +187,145 @@ transjakarta.co.id is the official website for the Jakarta bus rapid transit sys
 
 #### Overall Evaluation of The Website
 The website is very messy and disorganized; it is hard and unclear on how to navigate to pages that a user wants to go to. The header and body font sizes are the same, images are not uniformly sized and distorted, and the overall design of the website is also very outdated. This repels any potential individuals who are interested in using public transportation from using the website to learn more about it. 
+
+<table>
+  <tr>
+   <td>Heuristic + Explanation
+   </td>
+   <td>Detailed Analysis
+   </td>
+   <td>Recommendation
+   </td>
+   <td>Severity Rating
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#1: Visibility of system status</strong>
+<p>
+Interface should be able to inform user about what state the system is in
+   </td>
+   <td><strong>Positive: </strong>on multipage pages, there is a numbered bar on the bottom to indicate which # page the user is on
+<p>
+<strong>Negative: </strong>there is no indication where in the web page the user is (excluding the URL and indication from header)
+   </td>
+   <td>Bold/underline the sub page/heading that the user is on
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#2: Match between system and the real world</strong>
+<p>
+System should replicate the user’s real life experiences and understanding of the world into the user’s experience
+   </td>
+   <td><strong>Positive: </strong>the website uses simple to understand words that any regular person will understand
+<p>
+<strong>Negative: </strong>the website would use acronyms without explanation on what they mean
+   </td>
+   <td>Provide explanation of the acronym in the first occurrence or largest occurrence, and attempt to minimize use when possible
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#3: User control and freedom</strong>
+<p>
+Allows users to backtrack on unwanted actions
+   </td>
+   <td><strong>Positive: </strong>the user can click on the logo on top left corner to backtrack to home page
+<p>
+<strong>Negative: </strong>when loading the website initially, we see an interactive map, but once we close it, there seems to not be a way to reopen or reassess it
+   </td>
+   <td>Include a button or header that redirects us to this feature
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#4: Consistency and standards</strong>
+<p>
+Website should follow industry conventions, standards and jargon and be consistent throughout the website
+   </td>
+   <td><strong>Negative</strong>: The website seems to be naming the company with different variations that might be confusing to some
+   </td>
+   <td>Keep a standard naming convention and use it for the entire website
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#5: Error prevention</strong>
+<p>
+System should minimize the chance a user encountering errors
+   </td>
+   <td><strong>Positive: </strong>If the user mistypes the URL with a few erroneous characters, the system has a good way of handling and redirecting to the subpage closest to the name
+<p>
+<strong>Negative: </strong>The “Pengadaan” page redirects us to an error message saying the webpage is blocked
+   </td>
+   <td>Hide and do not show links that lead us to erroneous pages so users cannot access these pages
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#6: Recognition rather than recall</strong>
+<p>
+Reducing cognitive effort from users by making elements and actions visible and memorable
+   </td>
+   <td><strong>Positive: </strong>For galeries of images, there are arrows to navigate left and right, and circles to navigate directly to other images which replicate a users intuition on where
+   </td>
+   <td>N/A
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#7: Flexibility and efficiency of use</strong>
+<p>
+Provide shortcuts and ease of navigation for users of all different skill/experience levels
+   </td>
+   <td><strong>Negative:</strong>Cannot navigate with arrow keys for images or articles
+   </td>
+   <td>Include functionality of using arrow keys to navigate 
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#8: Aesthetic and minimalist design</strong>
+<p>
+Website contains only necessary information and minimize information bloating
+   </td>
+   <td><strong>Negative: </strong>the website is bloated with information, elements, icons, cards, and it makes it overwhelming for a user to navigate
+   </td>
+   <td>Restructure the website to categorize and break down larger chunks, and also rely on icons and images rather than lengthy text
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#9: Help users recognize, diagnose, and recover from errors</strong>
+<p>
+Ability to prompt users with correct error messages and possible solutions to fix or navigate the error
+   </td>
+   <td><strong>Negative: </strong>when the user is prompted an error message, it does not prompt the user on how to fix or navigate the issue 
+   </td>
+   <td>Include description on how to fix the error so the user can go back to a functioning website again
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td><strong>#10: Help and documentation</strong>
+<p>
+Provide instructions or a manual for a user on how to navigate and complete tasks on the website
+   </td>
+   <td><strong>Negative: </strong>There is no documentation on how to navigate with the interactive map
+   </td>
+   <td>To educate users, provide a document or video that illustrates, step-by-step, on how to use it
+   </td>
+   <td>2
+   </td>
+  </tr>
+</table>
+

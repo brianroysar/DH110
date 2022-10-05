@@ -179,7 +179,7 @@ Provide instructions or a manual for a user on how to navigate and complete task
 </table>
 
 ### Website #2: Transjakarta
-![MRT Jakarta's Home Page](./images/mrt_jakarta_home.png)
+![MRT Jakarta's Home Page](./images/transjakarta_home.png)
 [Website Link](https://transjakarta.co.id/)
 
 #### Information About The Website

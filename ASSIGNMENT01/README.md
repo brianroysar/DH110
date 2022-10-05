@@ -16,6 +16,6 @@ Thus, I want to use this UX project to create a website or mobile app that will 
 
 In this assignment, I will be conducting a heursitic evaluation through examining the _10 Usability Heuristics of User Interface Designs_ and _Severity Ratings for Usability Problems_ of two websites that are similar to the project idea I chose. 
 
-### Webiste #1: MRT Jakarta
+### Website #1: MRT Jakarta
 ![MRT Jakarta's Home Page](./images/mrt_jakarta_home.png)
 [Website Link](https://jakartamrt.co.id/en)

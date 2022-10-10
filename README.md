@@ -1,4 +1,4 @@
-# DH110
+# DH110: User Experience Design
 
 [PROJECT NAME]
 

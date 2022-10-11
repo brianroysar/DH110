@@ -12,4 +12,16 @@ To perform the UT, there are three phases we have to compelte. First, we have to
 
 We will be performing the tests on the main pain points discovered in the initial heurisitc evaluation which are:
 
-1. 
+1. Finding and updating routes that a user wants to travel
+2. Obtain information about the development and background of the MRT system
+3. Navigating in and out of the e-procurement subpage
+
+## UT Materials
+
+
+## Video Link
+
+## Reflection
+
+
+

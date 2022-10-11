@@ -21,6 +21,7 @@ This pilot UT will be done by a friend as the participant with me acting as the 
 
 ## UT Materials
 The UT materials can be accessed [here](https://forms.gle/4Pt49ZTtEyvPh4QWA). This includes the orientation script, informed consent form, pre-test questionnaire, three tasks, post-test questionnaire and demographic questions. 
+![Screenshot of UT Form](./images/UTForm.png)
 
 ## Video Link
 The video and screen recording of the pilot test can be watched [here](https://drive.google.com/file/d/1DkdA-p1ECukP-rn_5lfN6cb4rbztECX9/view?usp=sharing). 

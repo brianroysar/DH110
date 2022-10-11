@@ -17,9 +17,10 @@ We will be performing the tests on the main pain points discovered in the initia
 3. Navigating in and out of the e-procurement subpage
 
 ## UT Materials
-
+The UT materials can be accessed **here**. This includes the orientation script, informed consent form, pre-test questionnaire, three tasks, post-test questionnaire and demographic questions. 
 
 ## Video Link
+The video and screen recording of the pilot test can be watched **here**. 
 
 ## Reflection
 

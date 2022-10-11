@@ -19,7 +19,6 @@ We will be performing the tests on the main pain points discovered in the initia
 
 This pilot UT will be done by a friend as the participant with me acting as the moderator. We will take the test, while screen recording and recording our faces/voices to record responses through verbal and physical cues. I will be using **Zoom** to record the camera footage as well as screen record. The test was created using **Google Forms**. 
 
-
 ## UT Materials
 The UT materials can be accessed [here](https://forms.gle/4Pt49ZTtEyvPh4QWA). This includes the orientation script, informed consent form, pre-test questionnaire, three tasks, post-test questionnaire and demographic questions. 
 
@@ -27,6 +26,7 @@ The UT materials can be accessed [here](https://forms.gle/4Pt49ZTtEyvPh4QWA). Th
 The video and screen recording of the pilot test can be watched [here](https://drive.google.com/file/d/1DkdA-p1ECukP-rn_5lfN6cb4rbztECX9/view?usp=sharing). 
 
 ## Summary and Reflection
+During the pilot test, I got to see the usability issues of MRT Jakarta's website in action and how a real user would interact and react towards it. Through the participant's response, I was able to gague what pain points they had which helped me get an idea on possible solutions to implement moving forward to improve the site's usability. The participant found the test clear and easy to follow as she did not have to ask many clarifying questions throughout. The tasks also were a good balance between easy and diffucult, enabling us to get important and precise information on what to improve on. On the other hand,
 
 
 

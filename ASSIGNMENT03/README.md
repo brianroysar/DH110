@@ -8,7 +8,6 @@ _by Brian Roysar | DH 110: User Experience Design_
 Encourage the use of the public transportation system in Jakarta, Indonesia by providing users with more accessible and easy-to-digest information about available routes and the system as a whole. 
 
 ### **What is the basic need/goal involved for that activity? (reference)**
-
 Referring to Maslow’s hierarchy of needs, this activity will serve three different goals which are:
 
 1. **Physiological needs**: accessible transportation for people to obtain resources such as food (grocery shopping, restaurants), water, and travel to places of shelter (homes, apartments, hotels)
@@ -23,6 +22,21 @@ The current limitations are that the official websites of each public transporta
 
 
 ## Step 2: Target users
+
+### **What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) **
+
+User demographic: any person of age to travel alone on public transportation, citizens and tourists, potentially more focused on people that depend on public transportation for commuting to and from work
+User preference: people seeking cheaper and/or more sustainable ways to commute and travel
+User expertise: mainstream; no required level of expertise
+
+
+### **In which context (where, why, under which conditions) would the users do that activity?**
+Users would do this at home before going about their commute, or when they reach the station and attempting to decide where to get off/transit/change systems. Users would need to look and find routes when they are planning their way to work, social gathering, exploring the city and anything else that requires them to commute.
+
+### **What would the users usually do in order to complete that activity?** 
+Users can discover information about their routes through the websites and applications previously mentioned. More traditional commuters could also refer to physical, static maps that are posted on the stations, and manually find their routes that way. 
+
+
 
 ## Step 3: Research methods and plan
 

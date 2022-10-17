@@ -39,6 +39,8 @@ Users would do this at home before going about their commute, or when they reach
 Users can discover information about their routes through the websites and applications previously mentioned. More traditional commuters could also refer to physical, static maps that are posted on the stations, and manually find their routes that way. 
 
 ## Step 3: Research methods and plan
+There are a plethora of research methods that range from being close to participants to being distanced and detached. To obtain the most holistic responses, I have chosen to conduct a mixture of interview and participatory observation. This means that the research will involve questions that I ask about the user’s background, experiences and struggles with the problem, and also observe how they currently solve the problems. 
+
 
 ## Step 4: Interview/observation guide
 

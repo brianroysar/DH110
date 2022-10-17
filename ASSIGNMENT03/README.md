@@ -10,6 +10,8 @@ Encourage the use of the public transportation system in Jakarta, Indonesia by p
 ### **What is the basic need/goal involved for that activity? (reference)**
 Referring to Maslow’s hierarchy of needs, this activity will serve three different goals which are:
 
+<img src="./images/maslow.jpeg" width="300" height="200"/>
+
 1. **Physiological needs**: accessible transportation for people to obtain resources such as food (grocery shopping, restaurants), water, and travel to places of shelter (homes, apartments, hotels)
 2. **Safety**: accessible transportation enables people to commute to their workplaces which allows them to obtain emotional security
 3. **Love/social belonging**: accessible transportation enables people to commute to social gatherings with friends and family, allowing them to feel more connected and a stronger sense of social belonging
@@ -35,8 +37,6 @@ Users would do this at home before going about their commute, or when they reach
 
 ### **What would the users usually do in order to complete that activity?** 
 Users can discover information about their routes through the websites and applications previously mentioned. More traditional commuters could also refer to physical, static maps that are posted on the stations, and manually find their routes that way. 
-
-
 
 ## Step 3: Research methods and plan
 

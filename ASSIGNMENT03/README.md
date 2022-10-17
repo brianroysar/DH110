@@ -42,7 +42,7 @@ Users can discover information about their routes through the websites and appli
 There are a plethora of research methods that range from being close to participants to being distanced and detached. To obtain the most holistic responses, I have chosen to conduct a mixture of interview and participatory observation. This means that the research will involve questions that I ask about the user’s background, experiences and struggles with the problem, and also observe how they currently solve the problems. The interview and activity will be conducted virtually as I am not in Jakarta, and this acts as a geographical/physical barrier to doing it in-person. It will take place 6-10pm to allow participants to do this after their work hours. Finally, for data collection, we will record audio and video from the interview as well as have a digital note taker during the interview to keep track of the notable pieces of information.
 
 ## Step 4: Interview/observation guide
-Here is a [link](https://docs.google.com/document/d/1ws12eqgx5XDZ3clfp4RJtvsXS-oeV_v39y5L26bLp_I/edit?usp=sharing) to the interview/obsercation guide. 
+Here is a [link](https://docs.google.com/document/d/1ws12eqgx5XDZ3clfp4RJtvsXS-oeV_v39y5L26bLp_I/edit?usp=sharing) to the interview/observation guide. 
 
 ## Step 5: Representative data files
 

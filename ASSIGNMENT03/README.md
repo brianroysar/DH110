@@ -13,7 +13,7 @@ Referring to Maslow’s hierarchy of needs, this activity will serve three diffe
 <img src="./images/maslow.jpeg" width="300" height="200"/>
 
 1. **Physiological needs**: accessible transportation for people to obtain resources such as food (grocery shopping, restaurants), water, and travel to places of shelter (homes, apartments, hotels)
-2. **Safety needs**: accessible transportation enables people to commute to their workplaces which allows them to obtain emotional security
+2. **Safety needs**: accessible transportation enables people to commute to their workplaces which allows them to obtain economical security
 3. **Love/social belonging needs**: accessible transportation enables people to commute to social gatherings with friends and family, allowing them to feel more connected and a stronger sense of social belonging
 
 ### **What is(are) the traditional/current solution(s) to satisfy the needs?**

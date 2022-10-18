@@ -45,7 +45,9 @@ There are a plethora of research methods that range from being close to particip
 Here is a [link](https://docs.google.com/document/d/1ws12eqgx5XDZ3clfp4RJtvsXS-oeV_v39y5L26bLp_I/edit?usp=sharing) to the interview/observation guide. 
 
 ## Step 5: Representative data files
+Here is a [link](https://drive.google.com/file/d/10h-nS0IAd55L-QphAqdsUU9q8kBk52Yo/view?usp=sharing) to the recording (video + audio + screen share) of the whole interview.
 
 ## Interview transcript
+Here is a [link](https://docs.google.com/document/d/1mpoF0uNg6VjHPvriPHhkupKCanX_Y1D7GH_tOspPIco/edit?usp=sharing) to the interview transcript.
 
 ## Reflection

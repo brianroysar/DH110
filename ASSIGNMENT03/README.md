@@ -50,6 +50,19 @@ Here is a [link](https://drive.google.com/file/d/10h-nS0IAd55L-QphAqdsUU9q8kBk52
 ## Interview transcript
 Here is a [link](https://docs.google.com/document/d/1mpoF0uNg6VjHPvriPHhkupKCanX_Y1D7GH_tOspPIco/edit?usp=sharing) to the interview transcript.
 
+## Key quotes and insights
+> “Traffic's pretty bad in Jakarta, so I use public transportation to avoid it. That's also much cheaper. You don't have to worry about parking as well.”
+
+I learnt from this that people that have personal cars and modes of transportation still choose to use public transportation due to their cheap cost, convenience and time-efficiency. This allows us to market and create our application for a broader range of people, as we are not only limiting our target audience to individuals who do not have personal vehicles. 
+
+> “I think it'd be great if these kinds of platforms or apps can show what is famous near that area to visit, especially as a tourist. But maybe besides that a sort of like a quick phone call to the police in case you know, there's any dangerous events in that area or something along those lines.”
+
+Although the user prioritizes the necessary information about a route, there are other factors such as nearby tourist spots that a user would want to know when looking at a route, especially from a tourist’s point of view. In addition, something I never thought about is that the user would want a safety feature integrated, where it would alert the user if there are any nearby danger or threats, and a mechanism to call the police if necessary. This targets the users safety needs as one must feel safe in order to feel like their needs have been met. 
+
+> “I think, having like a one stop shop app, that sort of encapsulates all public transportation into that one app like starting from you know how to find a stop itself all the way to getting to your destination. I think that would just be super useful, because right now in Jakarta every single public transport sort of has their own thing going on.”
+
+Here, we learn about the lack of cohesion between the different public transportation systems in Jakarta, and how it makes it very hard for the user to utilize multiple systems in their commute as each system is not enough to cover the whole city. This confirms our hypothesis in which a system that integrates information from multiple systems can be very beneficial to the user experience when they are trying to find their way around the city.
+
 ## Reflection
 From the study I did, I learnt a lot of new things, while also confirming the assumptions I had coming in about the problem at hand. I learnt that this user really prioritizes the important and necessary information (such as arrival time, cost, duration) of the trip rather than other information such as tourist spots, restaurants along the way when asked what he wanted to see when presented a route. As well as the input fields, the user rather has a simple system that gives the necessary information quickly and efficiently. We also learnt that the user struggles with consolidating information of routes from different public transportation systems, as he has to cross reference multiple websites/apps/maps to formulate his overall commute method. 
 

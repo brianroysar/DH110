@@ -27,9 +27,9 @@ The current limitations are that the official websites of each public transporta
 
 ### **What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)**
 
-User demographic: any person of age to travel alone on public transportation, citizens and tourists, potentially more focused on people that depend on public transportation for commuting to and from work
-User preference: people seeking cheaper and/or more sustainable ways to commute and travel
-User expertise: mainstream; no required level of expertise
+* User demographic: any person of age to travel alone on public transportation, citizens and tourists, potentially more focused on people that depend on public transportation for commuting to and from work
+* User preference: people seeking cheaper and/or more sustainable ways to commute and travel
+* User expertise: mainstream; no required level of expertise
 
 
 ### **In which context (where, why, under which conditions) would the users do that activity?**

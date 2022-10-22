@@ -9,6 +9,7 @@ UX storytelling is essential for us to detach our own thoughts, wants, emotions 
 2. Recommended Activities: Presents users with fun things to do, restaurants/cafes, tourist attractions and more that are located along their route and/or nearby their final destination
 
 
+## Persona
 
-
+## Scenario
 

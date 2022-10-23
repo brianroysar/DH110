@@ -11,5 +11,9 @@ UX storytelling is essential for us to detach our own thoughts, wants, emotions 
 
 ## Persona
 
+![ADITYA PERSONA](./images/ADITYA_PRAMONO.png)
+![AGNES PERSONA](./images/AGNES_TAN.png)
+
+
 ## Scenario
 

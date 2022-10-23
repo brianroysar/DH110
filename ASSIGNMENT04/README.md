@@ -10,10 +10,10 @@ UX storytelling is essential for us to detach our own thoughts, wants, emotions 
 
 
 ## Persona
-
 ![ADITYA PERSONA](./images/ADITYA_PRAMONO.png)
 ![AGNES PERSONA](./images/AGNES_TAN.png)
 
-
 ## Scenario
+### Scenario #1: Aditya's Scenario
+Aditya wants to find a new, faster way to commute to work since his original commute is often delayed which causes him to be late to work. He lives in East Jakarta, whereas his work is located in the Central Business District which is located in South Jakarta. Because of the distance, his commute requires the use of multiple lines and systems, which thus requires a lot of transits between stops. Thus, Aditya wants to find the most optimal route that gets him to work in the shortest time possible with the least amount of transits. 
 

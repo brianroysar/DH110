@@ -15,5 +15,11 @@ UX storytelling is essential for us to detach our own thoughts, wants, emotions 
 
 ## Scenario
 ### Scenario #1: Aditya's Scenario
+#### Motivation + Goal
 Aditya wants to find a new, faster way to commute to work since his original commute is often delayed which causes him to be late to work. He lives in East Jakarta, whereas his work is located in the Central Business District which is located in South Jakarta. Because of the distance, his commute requires the use of multiple lines and systems, which thus requires a lot of transits between stops. Thus, Aditya wants to find the most optimal route that gets him to work in the shortest time possible with the least amount of transits. 
+
+#### Motivation + Goal
+### Scenario #2: Agnes' Scenario
+Agnes is in Jakarta for a week for her spring break vacation with her friends. From word of mouth and quick research she did before her trip, she has discovered a few places that she wants to visit and places to eat while she’s in town. However, she feels that the list is not exhaustive, as well as she feels that she is missing out on a lot of more local experiences. To get to the places she wants, she has decided to utilize public transportation due to the cheap cost. She wants to know how to get to these places with the complex public transportation, while exploring anything she deems interesting along the way!
+
 

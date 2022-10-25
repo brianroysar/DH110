@@ -66,7 +66,8 @@ Aditya downloads the Teleport app the night before his commute to create an acco
 
 The app presents Aditya with a momentary loading screen, until the most optimal route is shown to him with information such as walking directions to and from the station, cost of commute, which stops to get on and off on and times (and alternative times) that the bus/train/MRT leaves. Although the route presented is satisfactory, Aditya realizes that this route utilizes too many transits, but he sees the alternate routes section below the main screen, where he sees a route that is 6 minutes longer, but requires two less transits than the original route presented. He clicks on this, and after looking and feeling satisfied with this route, he clicks the START ROUTE button to start his journey. As he is on his commute, his phone prompts him with notifications whenever he has to get on/off which allows him to use other apps that he enjoys on his commute such as reading the news or watching Youtube videos. He arrives at work at 8:43 pm, completes his trip by pressing the END TRIP button, and now he has enough time to settle and get ready for a whole day of work!
 
-
+#### Jourey Map
+![ADITYA EMPATHY MAP](./images/AJM.png)
 
 ### Scenario #2: Agnes' Scenario
 #### Motivation + Goal
@@ -74,6 +75,9 @@ Agnes is in Jakarta for a week for her spring break vacation with her friends. F
 
 #### How/Use Cases
 Agnes is getting ready to plan her first day in Jakarta in the hotel room the night before with her friends. She downloads the Teleport app and creates an account. While creating the account, the app prompts her to select 4-7 hobbies/interests that she has, in which she selects: museums, coffee, sports, and shopping. After she creates her account, she decides to plan her route for tomorrow, so first, she inputs her hotel, Swissôtel Jakarta PIK Avenue, and sets her destination to Plaza Indonesia Mall where her group has made dinner reservations for later on in the day. In her search, she also selects the things she wants to find along the way, where she selects: top cafes nearby, most popular museums and best shopping malls. She clicks on the SEARCH button, where she is presented with different routes to Plaza Indonesia. More importantly, she also sees a curated list (based on her initial interests when creating the account as well as what she recently inputted) on things to do/see/visit that are along the way. The activities can be sorted by distance, popularity, and rating. There is also an interactive map view where she can see where each attraction is along the way. She clicks on each activity that she wants to do and adds it in the in-app to do list. After all this, she decides to save the route and information to her phone as she is aware that she might not have cell service during her day tomorrow as she does not have access to a local SIM card. Now, Agnes and her group are not only feeling confident about how to get around, but also on what to do around the city!
+
+#### Jourey Map
+![AGNES EMPATHY MAP](./images/AGJM.png)
 
 
 

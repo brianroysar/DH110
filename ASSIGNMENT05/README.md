@@ -10,3 +10,10 @@ Through this prototyping exercise, we will be translating these two use cases an
 
 ### Purpose of Low Fidelity Prototyping
 Low Fidelity Prototyping is the first step to visualizing the structure and the basic flow of the application being developed. It involves creating wireframes that illustrate the basic structure, components and information that will be presented without the stylistic details such as color, font and theme. In addition, through lo-fi prototyping, we are able to see what is feasible and what is not, while also testing the usability and tangibility of the product we are developing. It also acts as a good foundation to build future iterations and the final high fidelity prototype. 
+
+
+### Wireflow #1: Integrated Route Finding
+![Integrated Route Finding](./images/irf.png)
+
+### Wireflow #2: Reccommended Activities
+![Reccommended Activities](./images/ra.png)

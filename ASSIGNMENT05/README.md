@@ -20,3 +20,14 @@ Low Fidelity Prototyping is the first step to visualizing the structure and the 
 
 ### Wireflow #2: Reccommended Activities
 ![Reccommended Activities](./images/ra.png)
+
+## Testing
+After creating the wireframes and the wireflow for the two features/tasks, I conducted a test with another person that allowed me to not only get feedback for the current flow, but also notice mistakes and inefficiencies that could be improved on for future iterations. 
+
+The link to the interview video can be found [here](https://drive.google.com/file/d/1BAG32CDZhcbzKpksoyQvgicbfSisR7QK/view?usp=share_link) (video + screen recording)
+
+Here are the final screenshots for how the user perceived the flow of each task to be: 
+### Integrated Route Finding Test
+![Integrated Route Finding Test](./images/irf_test.png)
+### Reccommended Activities Test
+![Reccommended Activities Test](./images/ra_test.png)

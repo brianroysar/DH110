@@ -28,6 +28,6 @@ The link to the interview video can be found [here](https://drive.google.com/fil
 
 Here are the final screenshots for how the user perceived the flow of each task to be: 
 ### Integrated Route Finding Test
-![Integrated Route Finding Test](./images/irf_test.png)
+![Integrated Route Finding Test](./images/irf_test.jpg)
 ### Reccommended Activities Test
-![Reccommended Activities Test](./images/ra_test.png)
+![Reccommended Activities Test](./images/ra_test.jpg)

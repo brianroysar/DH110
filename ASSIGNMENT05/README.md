@@ -1,3 +1,6 @@
+# ASSIGNMENT #04: Persona + Scenario
+_by Brian Roysar | DH 110: User Experience Design_
+
 ## Description of Project
 
 ### Summary of user-research, persona and the features 

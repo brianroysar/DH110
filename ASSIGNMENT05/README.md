@@ -1,4 +1,4 @@
-# ASSIGNMENT #04: Persona + Scenario
+# ASSIGNMENT #05: Low Fidelity Prototype
 _by Brian Roysar | DH 110: User Experience Design_
 
 ## Description of Project

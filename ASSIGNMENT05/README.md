@@ -31,3 +31,23 @@ Here are the final screenshots for how the user perceived the flow of each task 
 ![Integrated Route Finding Test](./images/irf_test.jpg)
 ### Reccommended Activities Test
 ![Reccommended Activities Test](./images/ra_test.jpg)
+
+### Notes
+From the test here are notes that were taken on what the user could do successfully, and what they found confusing:
+
+* Integrated Route Finding 
+  * Successful:
+    * Use the search feature to progress to the routes page
+    * Look up alternative routes and pick that one if they wanted
+    * Add a transit spot in between source and destination
+    * End route and go back to the home screen
+  * Confusions:
+    * Back navigation was directed to screens that I originally did not mean to go to
+    * Couldn't remove a transit stop
+* Recommended Activities
+  * Successful:
+    * View the recommended activities and see more information about it
+    * Add recommended activities to the route
+  * Confusions:
+    * Did not realize adding activity will highlight activity on the route
+    * Did not realize that changing the filters on the route page will add/remove activity points along the route

@@ -72,7 +72,7 @@ Preparing a low fidelity prototype was very helpful for me to visualize the user
 If I was to make further revisions, I would take the test subject’s confusions for recommended activities and make the following changes
 
 * Did not realize adding activity will highlight activity on the route
- * Underline the text/make the button bigger to indicate that this is clickable
- * Or, change the button shape from circle to square to differentiate with a regular stop (indicating that it is clickable)
+  * Underline the text/make the button bigger to indicate that this is clickable
+  * Or, change the button shape from circle to square to differentiate with a regular stop (indicating that it is clickable)
 * Did not realize that changing the filters on the route page will add/remove activity points along the route
- * Reposition the filters to a more visible part of the screen (top) to make the user more aware that they are able to add/remove activities depending on the filters they choose
+  * Reposition the filters to a more visible part of the screen (top) to make the user more aware that they are able to add/remove activities depending on the filters they choose

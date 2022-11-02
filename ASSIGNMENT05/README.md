@@ -51,3 +51,14 @@ From the test here are notes that were taken on what the user could do successfu
   * Confusions:
     * Did not realize adding activity will highlight activity on the route
     * Did not realize that changing the filters on the route page will add/remove activity points along the route
+
+## Revisions
+Since the user found the most trouble with the integrated route finding task, I decided to make revisions to include the following changes
+* Exit button from microphone option
+* Visual of what the time scrolling feature would be like
+* Drop down between route to indicate user can learn more about intermediate stops
+* A final screen when user has completed the route
+* Minus button to remove transit stop
+
+Here is the following revision:
+![IRF Revision](./images/irf_revised.png)

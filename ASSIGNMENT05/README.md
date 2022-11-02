@@ -62,3 +62,17 @@ Since the user found the most trouble with the integrated route finding task, I 
 
 Here is the following revision:
 ![IRF Revision](./images/irf_revised.png)
+
+## Reflection
+
+All the following wireframes and wireflows can be found [here](https://www.figma.com/file/ce7OLNEwQorv5XmxA92BUD/Teleport-Lofi?node-id=0%3A1). (for better resolution)
+
+Preparing a low fidelity prototype was very helpful for me to visualize the user’s journey when interacting with the application. It was a very quick and easy way to draft something up to see if the app has a logical and intuitive flow. In terms of the wireflow testing, I conducted it with a friend, and had her draw the transitions from wireframe to wireframe, depending on how she would interact with the app and what she expected from each interaction. This was a very good way to critically evaluate my work, since what seemed intuitive and obvious to me, might not be as obvious to another person. The process went smooth, as drawing arrows made it quick and easy for her to draw arrows and write annotations. What also went well is that I did not guide her to do certain things as I did not want to influence their decision making when interacting with the app. Something that could have been done better is to interact with more features to evaluate the app from a larger perspective than just two features. Finally, through the testing process, I was able to make revisions to the integrated route finding feature as shown above. 
+
+If I was to make further revisions, I would take the test subject’s confusions for recommended activities and make the following changes
+
+* Did not realize adding activity will highlight activity on the route
+ * Underline the text/make the button bigger to indicate that this is clickable
+ * Or, change the button shape from circle to square to differentiate with a regular stop (indicating that it is clickable)
+* Did not realize that changing the filters on the route page will add/remove activity points along the route
+ * Reposition the filters to a more visible part of the screen (top) to make the user more aware that they are able to add/remove activities depending on the filters they choose

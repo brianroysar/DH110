@@ -6,3 +6,5 @@ In this assignment, we will be seeing how the Teleport app will visually look be
 
 [INSERT PROCESS HERE]
 
+![](./images/title.png)
+

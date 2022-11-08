@@ -13,3 +13,15 @@ In this assignment, we will be seeing how the Teleport app will visually look be
 ## Structure + Layout
 
 ![](./images/grid.png)
+
+## Typographic Variation
+
+![](./images/type.png)
+
+## Shape Variation
+
+![](./images/shape.png)
+
+## Color Variation
+
+![](./images/color.png)

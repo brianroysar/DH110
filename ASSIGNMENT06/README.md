@@ -12,4 +12,4 @@ In this assignment, we will be seeing how the Teleport app will visually look be
 
 ## Structure + Layout
 
-![](./images/structure.png)
+![](./images/grid.png)

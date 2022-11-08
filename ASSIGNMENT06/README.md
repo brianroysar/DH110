@@ -24,4 +24,5 @@ In this assignment, we will be seeing how the Teleport app will visually look be
 
 ## Color Variation
 
-![](./images/color.png)
+![](./images/color_dark.png)
+![](./images/color_orange.png)

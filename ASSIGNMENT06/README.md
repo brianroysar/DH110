@@ -24,18 +24,12 @@ Here, I decided on the layout for the overall page as well as the component that
 ![](./images/grid.png)
 
 ## Typographic Variation
-For the typography, I explored different types of fonts that could work with the application. I tried using both sans serif (SF Pro and Euclid Circular B) and serif fonts (Lusinata), and decided that sans serif fonts were more suitable as it made the app look more modern and friendly. I finally chose Euclid Circular B over SF Pro due to the fact that it had a more round feel and look, making the app feel more inviting to use. 
-
 ![](./images/type.png)
 
 ## Shape Variation
-I experimented with different roundess to the components and was deciding between 0px, 10px, and 20px. The componenets without any roundness made the app feel very rigid and outdated, while the 20px felt too extreme. I decided on the 10px option as it provided good structure, while making each component inviting and still have structure. I also wanted to include roundness as it fit the round structure/frame of the iPhone 13 Pro Max.
-
 ![](./images/shape_1.png)
 
 ## Color Variation + Accessibility (color-contrast) Check
-For the color pallete, I explored and was deciding between a blue or orange pallete. The orange pallete made the app feel more vibrant and pop out, but I wanted to make the app feel inviting and calm to use which is why I decided on the blue color pallete. This was also suitable for the app as MRT Jakarta and the bus system utilize a blue color pallete as well. 
-
 For the accessibility and contrast check, I used the Stark plugin on figma to test that text would be legible for both the light and dark mode, which all of them passed the required ratio threshold.
 
 ![](./images/color_dark.png)
@@ -55,10 +49,17 @@ These are the main takeaways I got from the test:
 * Modern look
 
 ## Final Interface Design
+
 ### Structure and Layout
 ![](./images/grid.png)
 ### Typogaraphy, Color
 ![](./images/final2.png)
+
+For the typography, I explored different types of fonts that could work with the application. I tried using both sans serif (SF Pro and Euclid Circular B) and serif fonts (Lusinata), and decided that sans serif fonts were more suitable as it made the app look more modern and friendly. I finally chose Euclid Circular B over SF Pro due to the fact that it had a more round feel and look, making the app feel more inviting to use. 
+
+I experimented with different roundess to the components and was deciding between 0px, 10px, and 20px. The componenets without any roundness made the app feel very rigid and outdated, while the 20px felt too extreme. I decided on the 10px option as it provided good structure, while making each component inviting and still have structure. I also wanted to include roundness as it fit the round structure/frame of the iPhone 13 Pro Max.
+
+For the color pallete, I explored and was deciding between a blue or orange pallete. The orange pallete made the app feel more vibrant and pop out, but I wanted to make the app feel inviting and calm to use which is why I decided on the blue color pallete. This was also suitable for the app as MRT Jakarta and the bus system utilize a blue color pallete as well. 
 
 ## Extra Variation
 ![](./images/extra.png)

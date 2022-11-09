@@ -10,6 +10,8 @@ I started by using the home screen that I created in the low-fidelity prototype 
 ### Figma Links
 Here is the [link](https://www.figma.com/file/uEISIsSiGdifLYI0xHQ2vW/Interface-Deisgn?node-id=0%3A1) to the Figma design file that has all the wireframes for each step of the desgin process.
 
+![](./images/preview.png)
+
 Here is the [link](https://www.figma.com/proto/uEISIsSiGdifLYI0xHQ2vW/Interface-Deisgn?page-id=21%3A3667&node-id=21%3A3668&viewport=1204%2C666%2C1.35&scaling=min-zoom) to the Figma full-screen prototype of the final interface design for the home page.
 
 ##

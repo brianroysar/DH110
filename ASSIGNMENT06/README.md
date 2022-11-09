@@ -55,7 +55,10 @@ These are the main takeaways I got from the test:
 * Modern look
 
 ## Final Interface Design
-![](./images/final.png)
+### Structure and Layout
+![](./images/grid.png)
+### Typogaraphy, Color
+![](./images/final2.png)
 
 ## Extra Variation
 ![](./images/extra.png)

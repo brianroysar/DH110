@@ -55,6 +55,13 @@ These are the main takeaways I got from the test:
 ### Typogaraphy, Color
 ![](./images/final2.png)
 
+For the final interface design, here are the final specifications and details:
+* 12 x 10 grid for screen
+* 6 x 6 grid for component
+* Euclid Circular B font, body spacing of 1.5
+* 10px roundness 
+* Grey/Blue color pallete
+
 For the typography, I explored different types of fonts that could work with the application. I tried using both sans serif (SF Pro and Euclid Circular B) and serif fonts (Lusinata), and decided that sans serif fonts were more suitable as it made the app look more modern and friendly. I finally chose Euclid Circular B over SF Pro due to the fact that it had a more round feel and look, making the app feel more inviting to use. 
 
 I experimented with different roundess to the components and was deciding between 0px, 10px, and 20px. The componenets without any roundness made the app feel very rigid and outdated, while the 20px felt too extreme. I decided on the 10px option as it provided good structure, while making each component inviting and still have structure. I also wanted to include roundness as it fit the round structure/frame of the iPhone 13 Pro Max.
@@ -62,4 +69,6 @@ I experimented with different roundess to the components and was deciding betwee
 For the color pallete, I explored and was deciding between a blue or orange pallete. The orange pallete made the app feel more vibrant and pop out, but I wanted to make the app feel inviting and calm to use which is why I decided on the blue color pallete. This was also suitable for the app as MRT Jakarta and the bus system utilize a blue color pallete as well. 
 
 ## Extra Variation
+Upon the impression test, I wanted to make the application feel more modenrn. To do this, I made a small alteration to the component that was responsible for displaying recommended places and recently visited places. I made the image cover the whole component, while the text lies on the bottom third of the component over a dark gradient to make the text still readable. 
+
 ![](./images/extra.png)

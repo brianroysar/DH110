@@ -24,6 +24,7 @@ Here, I decided on the layout for the overall page as well as the component that
 ![](./images/grid.png)
 
 ## Typographic Variation
+For the typography, I explored different types of fonts that could work with the application. I tried using both sans serif (SF Pro and Euclid Circular B) and serif fonts (Lusinata), and decided that sans serif fonts were more suitable as it made the app look more modern and friendly. I finally chose Euclid Circular B over SF Pro due to the fact that it had a more round feel and look, making the app feel more inviting to use. 
 
 ![](./images/type.png)
 
@@ -31,7 +32,7 @@ Here, I decided on the layout for the overall page as well as the component that
 
 ![](./images/shape_1.png)
 
-## Color Variation
+## Color Variation + Accessibility (color-contrast) Check
 
 ![](./images/color_dark.png)
 ![](./images/color_orange.png)

@@ -29,13 +29,31 @@ For the typography, I explored different types of fonts that could work with the
 ![](./images/type.png)
 
 ## Shape Variation
+I experimented with different roundess to the components and was deciding between 0px, 10px, and 20px. The componenets without any roundness made the app feel very rigid and outdated, while the 20px felt too extreme. I decided on the 10px option as it provided good structure, while making each component inviting and still have structure. I also wanted to include roundness as it fit the round structure/frame of the iPhone 13 Pro Max.
 
 ![](./images/shape_1.png)
 
 ## Color Variation + Accessibility (color-contrast) Check
+For the color pallete, I explored and was deciding between a blue or orange pallete. The orange pallete made the app feel more vibrant and pop out, but I wanted to make the app feel inviting and calm to use which is why I decided on the blue color pallete. This was also suitable for the app as MRT Jakarta and the bus system utilize a blue color pallete as well. 
+
+For the accessibility and contrast check, I used the Stark plugin on figma to test that text would be legible for both the light and dark mode, which all of them passed the required ratio threshold.
 
 ![](./images/color_dark.png)
 ![](./images/color_orange.png)
 
 ## Extra Variation
 ![](./images/extra.png)
+
+## Impression Test
+Here is the [link](https://drive.google.com/file/d/1d4mBr92fHrgb6a2Bm8q6XKa9NV9-xaD6/view?usp=share_link) to the recording for the impression test I did.
+
+These are the main takeaways I got from the test:
+* Logo was big, clear and visible
+* Clean and simple look
+* Easy and straightforward
+* Neutral feel
+* A lot of space for users to breathe
+* Images were boxed to provide structure
+* Modern look
+
+## Final Interface Design

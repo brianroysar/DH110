@@ -19,6 +19,7 @@ Here is the [link](https://www.figma.com/proto/uEISIsSiGdifLYI0xHQ2vW/Interface-
 ![](./images/heading.png)
 
 ## Structure + Layout
+Here, I decided on the layout for the overall page as well as the component that is responsible for displaying recently visited and reccomended places. I decided on a 12x10 grid with a horizontal gutter of 10px and vertical gutter of 20px. For the component, I decided on a 6x6 grid with a horizontal gutter of 3px, vertical gutter of 5px and vertical margin of 8px.
 
 ![](./images/grid.png)
 

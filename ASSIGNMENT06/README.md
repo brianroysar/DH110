@@ -41,8 +41,6 @@ For the accessibility and contrast check, I used the Stark plugin on figma to te
 ![](./images/color_dark.png)
 ![](./images/color_orange.png)
 
-## Extra Variation
-![](./images/extra.png)
 
 ## Impression Test
 Here is the [link](https://drive.google.com/file/d/1d4mBr92fHrgb6a2Bm8q6XKa9NV9-xaD6/view?usp=share_link) to the recording for the impression test I did.
@@ -57,3 +55,7 @@ These are the main takeaways I got from the test:
 * Modern look
 
 ## Final Interface Design
+![](./images/final.png)
+
+## Extra Variation
+![](./images/extra.png)

@@ -21,7 +21,7 @@ To create the high fidelity prototype, I used the low fidelity wireframes as a s
 ## Interactive Prototype
 Here is a [link](https://www.figma.com/proto/27qpe9a6vsMMODqkl8MStR/Teleport-Hifi-Prototype?page-id=49%3A2538&node-id=49%3A3120&viewport=802%2C702%2C0.1&scaling=min-zoom&starting-point-node-id=49%3A3102) to the interactive prototype for Teleport.
 
-Here is the figma [file](https://www.figma.com/file/27qpe9a6vsMMODqkl8MStR/Teleport-Hifi-Prototype?node-id=22%3A2968&t=pGEyGeAs3WFw0Ahf-1) that was used for the interactive prototype.
+Here is the Figma [file](https://www.figma.com/file/27qpe9a6vsMMODqkl8MStR/Teleport-Hifi-Prototype?node-id=22%3A2968&t=pGEyGeAs3WFw0Ahf-1) that was used for the interactive prototype.
 
 ## Wireflow with Interface Design
 ![Wireflow](./images/final_wireflow.png)

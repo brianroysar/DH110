@@ -10,12 +10,12 @@ To create the high fidelity prototype, I used the low fidelity wireframes as a s
 ## Tasks
 
 ### Primary Tasks
-1. Integrated Route Finding
-2. Recommended Activities
+1. Integrated Route Finding: Find the most optimal route that uses Jakarta's public transportations systems and that are tailored to the users needs
+2. Recommended Activities: Find fun things to do along the user's route
 
 ### Minor/Secondary Tasks/Funtions
-1. Login/Signup
-2. Live map/status during your route
+1. Login/Signup: Create or access your account
+2. Live map/status during your route: See where you are at during the commute
 
 
 ## Interactive Prototype
@@ -24,6 +24,7 @@ Here is a [link](https://www.figma.com/proto/27qpe9a6vsMMODqkl8MStR/Teleport-Hif
 Here is the figma [file](https://www.figma.com/file/27qpe9a6vsMMODqkl8MStR/Teleport-Hifi-Prototype?node-id=22%3A2968&t=pGEyGeAs3WFw0Ahf-1) that was used for the interactive prototype.
 
 ## Wireflow with Interface Design
+![Wireflow](./images/final_wireflow.png)
 
 
 

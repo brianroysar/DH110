@@ -2,3 +2,9 @@
 
 Brian Roysar, DH110-22F
 
+## Design Statement
+
+## Research
+
+## Design
+

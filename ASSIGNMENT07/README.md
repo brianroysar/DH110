@@ -1,4 +1,4 @@
-# ASSIGNMENT #07: Interface Design
+# ASSIGNMENT #07: High Fidelity Prototype
 _by Brian Roysar | DH 110: High Fidelity Prototype_
 
 ## About this project 

@@ -27,8 +27,7 @@ Here is the Figma [file](https://www.figma.com/file/27qpe9a6vsMMODqkl8MStR/Telep
 ![Wireflow](./images/final_wireflow.png)
 
 ## Cognitive Walkthrough
-During class, I was able to conduct a cognitive walkthrough to examine the usability of the application.
-
+During class, I was able to conduct a cognitive walkthrough to examine the usability of the application. First, I presented them with the prototype and asked them what they though the app was about. One classmate correctly guessed that the app was intended for navigation, but another thought that the app was to track carbon emissions. Then, they interacted with the prototype, exploring the flow of the two features that are implemented, while commenting and providing feedback on their user experience. The results of the walkthrough can be seen in the table below
 
 <table>
   <tr>
@@ -153,7 +152,14 @@ During class, I was able to conduct a cognitive walkthrough to examine the usabi
   </tr>
 </table>
 
+## Summary/Key Takeaways of Cognitive Walkthrough
+> 👍 Success
+> 
+> Success
 
+> 👍 Success
+> 
+> Success
 
 
 

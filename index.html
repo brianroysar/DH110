@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"
+		/>
+
+		<!-- Bootstrap CSS -->
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+			integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+			crossorigin="anonymous"
+		/>
+
+
+		<style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,700;0,800;0,900;1,700;1,900&display=swap');
+			body {
+				font-family: "Nunito Sans", sans-serif;
+			}
+      h3 {
+        font-weight: 600;
+      }
+		</style>
+
+		<title>Teleport</title>
+	</head>
+	<body>
+		<div class="col-xs-12" style="height: 40px"></div>
+		<div style="width: 1100px; margin: 0 auto">
+			<img
+				src="https://github.com/brianroysar/DH110/blob/main/images/TELEPORT.png?raw=true"
+				style="max-width: 30%"
+				alt="Responsive image"
+			/>
+      <div class="col-xs-12" style="height: 20px"></div>
+      <h2>Encouraging the use of Jakarta’s Public Transportation</h2>
+		</div>
+		<div style="width: 1100px; margin: 0 auto">
+			<h3>Brian Roysar | DH 110 | Fall 2022</h3>
+		</div>
+		<div class="col-xs-12" style="height: 10px"></div>
+		<div style="width: 1100px; margin: 0 auto">
+			<p style="text-align: left">
+				This project will be centered on the 11th Sustainable Development Goal
+				(SDG), Sustainable Cities and Communities, established by the United
+				Nations (UN). In particular, this project will be focusing on
+				encouraging the use of Jakarta’s public transportation system that
+				includes the newly built MRT, Transjakarta Bus, Train and more. Through
+				this project, I want to create an app that users use to find routes and
+				fun things to do through the use of public transportation.
+			</p>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="card">
+						<img
+							class="card-img-top"
+							src="https://content.r9cdn.net/rimg/dimg/1b/61/ad879e55-city-22380-17ea1cf2107.jpg?
+              width=1366&height=768&xhint=1472&yhint=1268&crop=true"
+							alt="Card image cap"
+							style="width: 100%; height: 15vw; object-fit: cover"
+						/>
+						<div class="card-body">
+							<h3 class="card-title">Introduction</h3>
+							<p class="card-text">
+								Being the 17th most polluted country in the world, in addition
+								to Jakarta’s average Air Quality Index (AQI) of 110, there
+								should be a larger emphasis on reducing the city’s reliance on
+								private modes of transport, and instead improving the
+								sustainability of many of our public transportation methods to
+								maintain a good quality of life and society in the long term. In
+								addition, having lived in Jakarta my entire life, I've
+								experienced first-hand how inefficient transportation and
+								commuting can be. A lack of structured roads and public
+								transportation only being in its early stages of development,
+								the lack of accessible and efficient transportation has
+								frustrated many Indonesians as commute times and congestion are
+								exponentially high.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="card">
+						<img
+							class="card-img-top"
+							src="https://qph.cf2.quoracdn.net/main-qimg-d5ec59f9e114d9614a2c3e653e97a311-lq
+            "
+							alt="Card image cap"
+							style="width: 100%; height: 15vw; object-fit: cover"
+						/>
+						<div class="card-body">
+							<h3 class="card-title">Design Statement</h3>
+							<p class="card-text">
+								Due to the mix of old, legacy transportation systems, such as
+								the train, combined with pre-mature new systems such as the MRT,
+								there is a lack of cohesion when it comes to finding information
+								about routes that utilize multiple systems at once. This means
+								that users will often have to cross reference many different
+								websites and resources to plan out their route that they want to
+								travel, or resort to Google Maps which does not have real time
+								updates on information such as arrival/departure times, delays
+								and cost of route. This acts as a barrier for people to oftenly
+								use the public transportation system as they find it difficult
+								and troublesome to find their way around. Thus, I want to create
+								an application that integrates all the information from all the
+								different public transportation systems, and allow users to find
+								their desired routes, in addition to fun/recommended things to
+								do along the way.
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-xs-12" style="height: 20px"></div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="card">
+						<div class="card-body">
+							<h3 class="card-title">Competitor Analysis</h3>
+
+							<img
+								src="https://github.com/brianroysar/DH110/raw/main/ASSIGNMENT01/images/mrt_jakarta_home.png"
+								alt="Card image cap"
+								style="width: 100%; height: 15vw; object-fit: cover"
+							/>
+							<div class="col-xs-12" style="height: 10px"></div>
+							<p class="card-text">
+								Before we start on ideating and designing the application we
+								want to build, I conducted an analysis on existing solutions for
+								the same problem. This involved performing a heuristic analysis
+								on two similar websites
+								<a href="https://jakartamrt.co.id/en" class="link-primary"
+									>https://jakartamrt.co.id/en
+								</a>
+								and
+								<a href="https://transjakarta.co.id/ " class="link-primary"
+									>https://transjakarta.co.id/ </a
+								>, where I applied the 10 Usability Heuristics of User Interface
+								Design and provided Severity Ratings for each heuristic. From
+								this, I recognized how difficult it is to navigate through the
+								websites, non-uniform and bland design, and the large amounts of
+								unnecessary clutter that the website has.
+							</p>
+							<p class="card-text">
+								After this, I conducted Usability Testing on
+								<a href="https://jakartamrt.co.id/en" class="link-primary"
+									>https://jakartamrt.co.id/en </a
+								>, where I had someone interact with the website, survey their
+								initial thoughts, and complete a set of tasks. From this
+								activity, I was able to gauge the effectiveness, efficiency and
+								satisfaction of the website’s user experience from the
+								perspective of a potential user that might not be initially
+								familiar with the website. From the testing, I was able to learn
+								more insights on what I should improve on in my application and
+								also the positives that I should keep in my application’s user
+								experience.
+							</p>
+							<p class="card-text">
+								Please click on the buttons below to learn more about the
+								Heuristic Evaluation and Usability Testing
+							</p>
+							<a
+								href="https://github.com/brianroysar/DH110/blob/main/ASSIGNMENT01/README.md"
+								class="btn btn-primary"
+								>Heuristic Evaluation</a
+							>
+							<a
+								href="https://github.com/brianroysar/DH110/blob/main/ASSIGNMENT02/README.md"
+								class="btn btn-primary"
+								>Usability Testing</a
+							>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="card">
+						<div class="card-body">
+							<h3 class="card-title">User Research</h3>
+							<iframe
+								src="https://drive.google.com/file/d/10h-nS0IAd55L-QphAqdsUU9q8kBk52Yo/preview"
+								width="100%"
+								height="350px"
+								allow="autoplay"
+							></iframe>
+							<p class="card-text"></p>
+							<p>
+								To learn more about a user’s wants and needs, I conducted user
+								research that was detached from any existing applications.
+								Through this user research, I gave the interviewee freedom to
+								complete the given tasks in the way they normally would. This
+								involved a mix of interview and participatory observations,
+								where I would ask them questions on how they go about using
+								public transportation and observe how they do it. From this
+								exercise, I was able to learn more about the user’s priorities
+								and preferences. For example, I learn that they prioritize the
+								necessary, simple information about the route, while also their
+								desire to learn more about things to do on the side.
+							</p>
+							<p>
+								Please click on the button below to learn more about the User
+								Research Process
+							</p>
+							<a
+								href="https://github.com/brianroysar/DH110/blob/main/ASSIGNMENT03/README.md"
+								class="btn btn-primary"
+								>User Research</a
+							>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-xs-12" style="height: 20px"></div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="card">
+						<div class="card-body">
+							<h3 class="card-title">UX Storytelling/User Persona</h3>
+							<img
+								src="https://github.com/brianroysar/DH110/blob/main/ASSIGNMENT04/images/ADITYA_PRAMONO.png?raw=true"
+								alt="Card image cap"
+								style="width: 100%; height: 100%; object-fit: cover"
+							/>
+							<div class="col-xs-12" style="height: 20px"></div>
+							<p class="card-text">
+								To understand the potential users that will be using the
+								application, I did UX storytelling by creating personas and
+								scenarios. UX storytelling is essential for us to detach our own
+								thoughts, wants, emotions from the problem we are trying to
+								tackle. It forces us to reshift our perspective to a plethora of
+								different users perspectives, and from that exercise, we are
+								able to have a more holistic understanding of the problem and
+								how we will solve it. It ultimately allows us to be in the shoes
+								of potential users in the real world and make the product focus
+								more on the user's needs and goals. In this exercise, I created
+								two detailed and different personas, while also creating
+								scenarios each one would be in, and their respective journey
+								maps when completing the tasks/scenarios.
+							</p>
+							<p>
+								Please click on the button below to learn more about UX
+								Storytelling, Personas and Scenarios
+							</p>
+							<a
+								href="https://github.com/brianroysar/DH110/blob/main/ASSIGNMENT04/README.md"
+								class="btn btn-primary"
+								>UX Storytelling</a
+							>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-sm-6">
+					<div class="card">
+						<div class="card-body">
+							<h3 class="card-title">Low Fidelity Prototype</h3>
+							<iframe
+								style="border: 1px solid rgba(0, 0, 0, 0.1)"
+								width="100%"
+								height="450"
+								src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fce7OLNEwQorv5XmxA92BUD%2FTeleport-Lofi%3Fnode-id%3D0%253A1%26t%3D1IGvnQph493IUFpZ-1"
+								allowfullscreen
+							></iframe>
+							<p>
+								At this point, I have decided on the two features that I want to
+								prototype which are:
+							</p>
+
+							<ol>
+								<li>
+									Integrated Route-Finding: Allows users to find routes that
+									utilize multiple transit systems (Bus, MRT, Train) all in one
+									application. User will also have multiple inputs that they can
+									use to tailor their search (source/destination, time, system
+									preferences, areas to avoid (safety), intermediate stops along
+									the way)
+								</li>
+								<li>
+									Recommended Activities: Presents users with fun things to do,
+									restaurants/cafes, tourist attractions and more that are
+									located along their route and/or nearby their final
+									destination.
+								</li>
+							</ol>
+
+							<p>
+								Using Figma, I created a low-fidelity prototype that roughly
+								sketches the barebone structure and logical flow of the
+								application for the two features aforementioned. Through this
+								quick prototyping method, I was able to assess what is feasible
+								and not, while creating a good foundation to build future
+								iterations on
+							</p>
+
+							<p>
+								Using the Lo-Fi Prototype, I also conducted testing to see if a
+								user would find the structure and flow easy to understand, learn
+								and use. Through this, I was able to verify the elements that
+								worked smoothly, but also obtain observations on certain flows
+								and elements that seemed unclear to a new user.
+							</p>
+
+							<iframe
+								src="https://drive.google.com/file/d/1BAG32CDZhcbzKpksoyQvgicbfSisR7QK/preview"
+								width="100%"
+								height="380"
+								allow="autoplay"
+							></iframe>
+
+							<p>
+								Please click on the button below to learn more about Low
+								Fidelity Prototyping
+							</p>
+							<a
+								href="https://github.com/brianroysar/DH110/blob/main/ASSIGNMENT05/README.md"
+								class="btn btn-primary"
+								>Low Fidelity Prototyping</a
+							>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-xs-12" style="height: 20px"></div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="card">
+						<div class="card-body">
+							<h3 class="card-title">Interface Design</h3>
+							<p>
+								Before we transition into the high fidelity prototype, I have to
+								decide on the different design decisions such as layout, shape
+								variations, typography and color. In this phase, I applied
+								different designs on the home screen of the application, and
+								chose the best one that fit the application. In addition, I
+								created both a light and dark mode, while also adhering to the
+								color contrast ratio standard. Here are the final design
+								decisions I decided to use:
+							</p>
+							<ol>
+								<li>12 x 10 grid for screen</li>
+								<li>6 x 6 grid for component</li>
+								<li>Euclid Circular B font, body spacing of 1.5</li>
+								<li>10px roundness</li>
+								<li>Grey/Blue color palette</li>
+							</ol>
+
+							<iframe
+								style="border: 1px solid rgba(0, 0, 0, 0.1)"
+								width="100%"
+								height="450"
+								src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuEISIsSiGdifLYI0xHQ2vW%2FInterface-Deisgn%3Fnode-id%3D0%253A1%26t%3DyRyUjwwo3bqespGr-1"
+								allowfullscreen
+							></iframe>
+							<p>
+								Please click on the button below to learn more about Interface
+								Design
+							</p>
+							<a
+								href="https://github.com/brianroysar/DH110/blob/main/ASSIGNMENT06/README.md"
+								class="btn btn-primary"
+								>Interface Design</a
+							>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="card">
+						<div class="card-body">
+							<h3 class="card-title">High Fidelity Prototype</h3>
+
+							<p>
+								To combine the low fidelity prototype with the interface design,
+								I created a high fidelity prototype that would replicate the
+								applications look and flow for the two aforementioned features.
+								I applied everything I have learnt from the class with all the
+								findings from the previous stages to finalize my design and
+								flow. After the prototype was complete, I conducted a cognitive
+								walkthrough with my fellow classmates to review each other's
+								prototype.
+							</p>
+
+							<iframe
+								style="border: 1px solid rgba(0, 0, 0, 0.1)"
+								width="100%"
+								height="350"
+								src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F27qpe9a6vsMMODqkl8MStR%2FTeleport-Hifi-Prototype%3Fnode-id%3D49%253A2538%26t%3D0wiP0zwrZPIE9MDQ-1"
+								allowfullscreen
+							></iframe>
+
+							<p>
+								Please click on the button below to learn more about High
+								Fidelity Prototyping
+							</p>
+							<a
+								href="https://github.com/brianroysar/DH110/blob/main/ASSIGNMENT07/README.md"
+								class="btn btn-primary"
+								>High Fidelity Prototyping</a
+							>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-xs-12" style="height: 20px"></div>
+
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-sm-6">
+          
+          <h3>Final High Fidelity Prototype</h3>
+          <iframe
+            style="border: 1px solid rgba(0, 0, 0, 0.1)"
+            width="100%"
+            height="1050"
+            src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F27qpe9a6vsMMODqkl8MStR%2FTeleport-Hifi-Prototype%3Fpage-id%3D49%253A2538%26node-id%3D49%253A3120%26viewport%3D867%252C818%252C0.14%26scaling%3Dmin-zoom%26starting-point-node-id%3D49%253A3102"
+            allowfullscreen
+          ></iframe>
+        </div>
+    
+        <div class="col-sm-6">
+          <h3> Conclusion </h3>
+          <p>
+            This project was my first time conducting and applying a human-centered design process and it showed me the importance of having the user in mind throughout the entire journey. Having a clear goal in mind, while also having multiple insights from potential users, it made the designing process much smoother and directed as designing felt more objective rather than open-ended.
+          </p>
+          <p>
+            Throughout the process, I have gained many valuable skills that I will continue to use in the future. Activities such as usability testing and user research allowed me to develop interviewing skills as well as preparing interview material such as the script and Google Form. Creating the low-fidelity prototype, interface design and high-fidelity prototype gave me the opportunity to improve my Figma skills, while familiarizing myself with the many useful plugins that Figma provides such as Arc, Stark and Autoflow. 
+          </p>
+          <p>
+            The most challenging part of the process was the interface design, as I found it difficult to choose a specific design that I felt content with. It required a lot of iteration, and testing out different combinations of shape, color, typography. However, after thinking about which of these factors would be most appropriate for the application, it became a lot easier to decide. 
+          </p>
+          <p>
+            Moving forward, I would love to have the chance to explore more functionalities that Teleport could incorporate, such as a social or safety feature, and expand the prototype as well. I would also want to perform Usability Testing on my prototype to gain even further insights on what can be improved on. Finally, I would also spend some more time creating designs for the potential notifications that a user would receive when they have this application installed, such as route information, safety alerts, and recommended activities. 
+          </p>
+        </div>
+
+      </div>
+
+
+    </div>
+		
+
+		<!-- Optional JavaScript -->
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script
+			src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+			integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js"
+			integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+			integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+			crossorigin="anonymous"
+		></script>
+	</body>
+</html>

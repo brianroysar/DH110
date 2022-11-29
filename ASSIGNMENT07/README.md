@@ -27,7 +27,7 @@ Here is the Figma [file](https://www.figma.com/file/27qpe9a6vsMMODqkl8MStR/Telep
 ![Wireflow](./images/final_wireflow.png)
 
 ## Cognitive Walkthrough
-During class, I was able to conduct a cognitive walkthrough to examine the usability of the application. First, I presented them with the prototype and asked them what they though the app was about. One classmate correctly guessed that the app was intended for navigation, but another thought that the app was to track carbon emissions. Then, they interacted with the prototype, exploring the flow of the two features that are implemented, while commenting and providing feedback on their user experience. The results of the walkthrough can be seen in the table below
+During class, I was able to conduct a cognitive walkthrough to examine the usability of the application. First, I presented them with the prototype and asked them what they though the app was about. One classmate correctly guessed that the app was intended for navigation, but another thought that the app was to track carbon emissions. Then, they interacted with the prototype, exploring the flow of the two features that are implemented, while commenting and providing feedback on their user experience. The results/evidence of the walkthrough can be seen in the table below
 
 <table>
   <tr>
@@ -152,7 +152,7 @@ During class, I was able to conduct a cognitive walkthrough to examine the usabi
   </tr>
 </table>
 
-## Summary/Key Takeaways of Cognitive Walkthrough
+## Key Takeaways of Cognitive Walkthrough
 > 👍 Success
 > 
 > Success
@@ -161,6 +161,9 @@ During class, I was able to conduct a cognitive walkthrough to examine the usabi
 > 
 > Success
 
+## Summary of Cognitive Walkthrough
+The cognitive walkthrough went smoothly as participants were able to follow with the tasks and application with ease. They were also very detailed in their response when asked questions such as “what do you think the application is for?” and “what are the first things you notice on the main screen?.” I also really appreciated the detailed feedback they left on the Figma prototype, allowing me to use that advice to further improve the application prototype. It gave me insight on things I was lacking that as a developer I was not aware of.
 
+For the cognitive walkthrough, I wished that we had more time so the testing wouldn’t have felt as rushed. This was unavoidable due to the time constraints of the class time. In addition, the cognitive walkthrough would have produced more accurate results if the demo was done on a mobile device instead of a laptop, as it mimics the real use-case of the application as it was designed for the iPhone. 
 
 

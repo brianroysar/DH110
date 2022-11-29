@@ -153,13 +153,13 @@ During class, I was able to conduct a cognitive walkthrough to examine the usabi
 </table>
 
 ## Key Takeaways of Cognitive Walkthrough
-> 👍 Success
-> 
-> Success
+* List of hobbies
+  * **Problem:** When users select different interests and hobbies, they are currently presented with a long list to select from. From the cognitive walkthrough, I was able to get feedback on this as the participants felt this could be very overwhelming and difficult to search for their desired hobby. 
+  * **Solution:** To avoid this, we could implement a search feature where users can type in what they want, and the buttons that correspond to the input will be the only one that appears. The search bar would be above the list of buttons, and the buttons will filter dynamically as user types in their input. Another approach is that we could split the buttons into categories to make it easier and digestible for the user. 
 
-> 👍 Success
-> 
-> Success
+* Carbon emission tracker
+  * **Problem:** The app is lacking in features to make the user aware of how much carbon emissions they save from each route. They only currently see the amount of carbon emissions they save on per route they take.
+  * **Solution:** It would be nice to have an overall daily, weekly and monthly total of how much a user saves on emissions, which would be the sum of all their commutes. In addition, it would also be good to have the amount of carbon emissions saved displayed on each route when a user is about to select a route.
 
 ## Summary of Cognitive Walkthrough
 The cognitive walkthrough went smoothly as participants were able to follow with the tasks and application with ease. They were also very detailed in their response when asked questions such as “what do you think the application is for?” and “what are the first things you notice on the main screen?.” I also really appreciated the detailed feedback they left on the Figma prototype, allowing me to use that advice to further improve the application prototype. It gave me insight on things I was lacking that as a developer I was not aware of.
